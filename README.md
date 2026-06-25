@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0027-remove-element) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
