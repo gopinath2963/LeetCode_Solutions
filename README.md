@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2785-sort-vowels-in-a-string](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [3340-check-balanced-string](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/3340-check-balanced-string) |
 ## Sorting
 |  |
 | ------- |
