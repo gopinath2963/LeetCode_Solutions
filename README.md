@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3895-count-digit-appearances](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Hash Table
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
