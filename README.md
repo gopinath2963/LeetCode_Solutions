@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [1189-maximum-number-of-balloons](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0344-reverse-string) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [1154-day-of-the-year](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1154-day-of-the-year) |
