@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [1732-find-the-highest-altitude](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2540-minimum-common-value](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [2785-sort-vowels-in-a-string](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Math
 |  |
