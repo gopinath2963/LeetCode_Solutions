@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [1732-find-the-highest-altitude](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
