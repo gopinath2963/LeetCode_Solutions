@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [1732-find-the-highest-altitude](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -91,10 +92,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
