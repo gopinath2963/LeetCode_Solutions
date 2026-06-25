@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3895-count-digit-appearances](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2785-sort-vowels-in-a-string](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
+## Math
+|  |
+| ------- |
+| [3895-count-digit-appearances](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/3895-count-digit-appearances) |
 <!---LeetCode Topics End-->
