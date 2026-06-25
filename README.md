@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
