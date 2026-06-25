@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [1189-maximum-number-of-balloons](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0344-reverse-string](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1154-day-of-the-year](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1154-day-of-the-year) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0078-subsets) |
 ## Stack
 |  |
