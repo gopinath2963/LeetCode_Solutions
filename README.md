@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0078-subsets) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [2540-minimum-common-value](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 ## Simulation
