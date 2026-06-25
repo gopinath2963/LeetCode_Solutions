@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
