@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0137-single-number-ii) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [1189-maximum-number-of-balloons](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0137-single-number-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
