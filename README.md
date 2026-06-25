@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Memoization
 |  |
 | ------- |
