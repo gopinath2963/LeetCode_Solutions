@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1154-day-of-the-year](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1154-day-of-the-year) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [1154-day-of-the-year](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1154-day-of-the-year) |
 | [3895-count-digit-appearances](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/3895-count-digit-appearances) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Prefix Sum
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0137-single-number-ii) |
