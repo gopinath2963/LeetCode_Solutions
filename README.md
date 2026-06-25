@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [1154-day-of-the-year](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1154-day-of-the-year) |
 | [3895-count-digit-appearances](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/3895-count-digit-appearances) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [2540-minimum-common-value](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
