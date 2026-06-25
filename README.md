@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [1154-day-of-the-year](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/1154-day-of-the-year) |
 | [3895-count-digit-appearances](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Counting
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gopinath2963/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
